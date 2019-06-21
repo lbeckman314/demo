@@ -1,0 +1,12 @@
+[submodule "demo-server"]
+	path = demo-server
+	url = https://github.com/lbeckman314/demo-server.git
+[submodule "demo-web"]
+	path = demo-web
+	url = https://github.com/lbeckman314/demo-web.git
+[submodule "demo-go"]
+	path = demo-go
+	url = https://github.com/lbeckman314/demo-go.git
+[submodule "demonic"]
+	path = demonic
+	url = https://github.com/lbeckman314/demonic.git
