@@ -13,7 +13,7 @@ This is the catch-all repo for the following four projects:
 
 |          | [demo-web](https://github.com/lbeckman314/demo-web) | [demo-go](https://github.com/lbeckman314/demo-go) | [demo-server](https://github.com/lbeckman314/demo-server) | [demonic](https://github.com/lbeckman314/demonic) |
 |----------|-----------------------------------------------------|---------------------------------------------------|-----------------------------------------------------------|---------------------------------------------------|
-| Function | Web client | Go client                          | Node.js server                            | Web client & Pythos server                                     |
+| Function | Web client | Go client                          | Node.js server                            | Web client & Python server                                     |
 | Domain   | web                                                 | terminal                                          | server                                                    | web                                               |
 | Use if... | you want to embed a pseudo-terminal on a website or in online documentation. | you want to access sandboxed applications from the comfort of the command line. | you want to serve custom commands in a sandboxed environment to clients like demo-web and demo-go. | you want a fully fleged terminal in the web that *also* runs sandboxed applications. |
 
