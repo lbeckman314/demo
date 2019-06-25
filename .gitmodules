@@ -10,3 +10,6 @@
 [submodule "demonic"]
 	path = demonic
 	url = https://github.com/lbeckman314/demonic.git
+[submodule "demo-docs"]
+	path = demo-docs
+	url = https://github.com/lbeckman314/demo-docs
