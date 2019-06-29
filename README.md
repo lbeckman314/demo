@@ -22,7 +22,7 @@ This is the catch-all repo for the following projects:
 
 ## FAQ's
 
-- Why have four separate project repositories instead of one unified one?
+- Why have separate project repositories (submodules) instead of one unified repository?
 
 I'd like each project to be able to function independently, so that user's may be free to switch out clients and servers at their discretion. And developers or contributors should be able to fork or clone only the components they wish to extend or work on. This division between subprojects introduces some added complexity (e.g. submodules), but at least for this project, is balanced out by the added level of choice for users and developers.
 
