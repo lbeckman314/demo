@@ -13,3 +13,6 @@
 [submodule "demo-docs"]
 	path = demo-docs
 	url = https://github.com/lbeckman314/demo-docs
+[submodule "demo-cli"]
+	path = demo-cli
+	url = https://github.com/lbeckman314/demo-cli
