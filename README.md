@@ -5,7 +5,7 @@ This is the catch-all repo for the following projects:
 ## Overview
 
 1) [demo-web](https://github.com/lbeckman314/demo-web): a minimal pseudo-terminal that can be embedded on a webpage. This is a web client for demo-server.
-2) [demo-go](https://github.com/lbeckman314/demo-go): a CLI that allows you to run commands from the terminal. This is a go client for demo-server.
+2) [demo-cli](https://github.com/lbeckman314/demo-cli): a CLI that allows you to run commands from the terminal. This is a go client for demo-server.
 3) [demo-server](https://github.com/lbeckman314/demo-server): a server that runs custom-defined commands in a sandboxed environment. This is a Node.js server for demo-web and demo.go.
 4) [demo-docs](https://github.com/lbeckman314/demo-docs): converts code blocks in runnable code samples that sccepts user input (via connecting to demo-server)!
 5) [demonic](https://github.com/lbeckman314/demonic): an [xterm.js](https://xtermjs.org/) and [terminado](https://github.com/jupyter/terminado)-powered web-app that gives you all the powers of a terminal right in the browser. Acts as it's own client and server model. Like demo-web but more feature-rich and broadly-focused.
@@ -15,8 +15,8 @@ This is the catch-all repo for the following projects:
 | Program                                                   | Function                   | Use if you want...                                                                        |
 |-----------------------------------------------------------|----------------------------|-------------------------------------------------------------------------------------------|
 | [demo-web](https://github.com/lbeckman314/demo-web)       | Web client                 | to embed a pseudo-terminal on a website or in online documentation.                       |
-| [demo-go](https://github.com/lbeckman314/demo-go)         | Go client                  | to access sandboxed applications from the comfort of the command line.                    |
-| [demo-server](https://github.com/lbeckman314/demo-server) | Node.js server             | to serve custom commands in a sandboxed environment to clients like demo-web and demo-go. |
+| [demo-cli](https://github.com/lbeckman314/demo-cli)         | Go client                  | to access sandboxed applications from the comfort of the command line.                    |
+| [demo-server](https://github.com/lbeckman314/demo-server) | Node.js server             | to serve custom commands in a sandboxed environment to clients like demo-web and demo-cli. |
 | [demo-docs](https://github.com/lbeckman314/demo-docs)     | Web docs                   | to convert code blocks into runnable blocks in HTML-ized markdown files.                  |
 | [demonic](https://github.com/lbeckman314/demonic)         | Web client & Python server | a fully fleged terminal in the web that *also* runs sandboxed applications.               |
 
